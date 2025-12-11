@@ -5,7 +5,6 @@ This repository documents the work and competencies demonstrated in earning the 
 This certification validates the ability to use SQL effectively for data analysis, with a focus on **Data Management** and **Exploratory Analysis**.  
 
 I was officially certified on **November 30, 2025**, under certificate ID **SQA0017648895175**.  
-:contentReference[oaicite:0]{index=0}
 
 The certification ensures that candidates possess the knowledge, skills, and abilities required to analyse data using SQL in real-world business environments.
 
@@ -21,7 +20,6 @@ Assesses the ability to clean, transform, and manage data in relational database
 - Preparing datasets for analytical workflows
 
 These capabilities were tested through hands-on SQL coding challenges that required executing detailed data cleaning and transformation operations.  
-:contentReference[oaicite:1]{index=1}
 
 ### Exploratory Analysis
 Evaluates the candidate’s ability to explore and derive insights from data using SQL. Responsibilities include:
@@ -30,7 +28,7 @@ Evaluates the candidate’s ability to explore and derive insights from data usi
 - Aggregating and grouping data for analytical summaries
 
 This domain was assessed through practical problems using PostgreSQL where insights had to be derived from real datasets.  
-:contentReference[oaicite:2]{index=2}
+
 
 ---
 
@@ -48,7 +46,6 @@ The certification includes timed, adaptive exams designed to test SQL proficienc
 - Understanding of relational schema design
 
 These examinations provide a rigorous measurement of SQL competency.  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -62,7 +59,6 @@ The practical exam requires completing a project using **DataCamp DataLab**, app
 - Applying SQL in a realistic, project-based environment
 
 This project integrates both data management and exploratory analysis competencies.  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
